@@ -1,16 +1,19 @@
-## Hi there 👋
+# My GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-<!--
-**code-with-manish09/code-with-manish09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<💫 About Me:
+bca student ,full stack developer, gen ai learner
 
-Here are some ideas to get you started:
+🌐 Socials:
+LinkedIn email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+Python JavaScript HTML5 CSS3 Bootstrap Jinja TailwindCSS GitHub Git
+
+📊 GitHub Stats:
+
+
+
+
+
+
