@@ -1,5 +1,3 @@
-# My GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 <💫 About Me:
 bca student ,full stack developer, gen ai learner
